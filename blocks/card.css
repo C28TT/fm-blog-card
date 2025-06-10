@@ -52,6 +52,11 @@
   text-overflow: ellipsis;
 }
 
+.card__title:hover {
+  color: #f4d04e;
+  cursor: pointer;
+}
+
 .card__description {
   width: 100%;
   color: var(--gray-500);
